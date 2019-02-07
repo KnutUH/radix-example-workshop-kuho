@@ -1,7 +1,7 @@
 apiVersion: radix.equinor.com/v1
 kind: RadixApplication
 metadata:
-  name: ws-www
+  name: ws-www-kuho
 spec:
   environments:
     - name: production
